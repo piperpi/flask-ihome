@@ -5,7 +5,7 @@
     - [云通讯](https://www.yuntongxun.com/)短信服务(短信验证码)
     - [阿里云oss](https://www.aliyun.com/product/oss)图片服务(用户、房屋图片)
     - [支付宝](https://openhome.alipay.com/platform/home.htm)手机网站支付服务
-- 功能(详见需求文档)
+- 功能(详见[需求文档](https://github.com/piperpi/flask-ihome/blob/master/%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3.txt))
     - 主页
     - 注册
 	- 登陆
