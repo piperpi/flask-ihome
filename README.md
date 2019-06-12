@@ -23,8 +23,7 @@
 ## 项目初始化
 #### 安装依赖包(运行环境python2.7)  
 `pip install -r requirement.txt`
-#### 配置redis缓存、mysql数据库
-config.py
+#### 配置redis缓存、mysql数据库（config.py）
 ```python
 # 数据库
 SQLALCHEMY_DATABASE_URI = "mysql+pymysql://ihome_user:ihome_password@10.0.0.7:3306/ihome"
